@@ -19,4 +19,4 @@ Ideas and design choices are influenced by a number of games and projects, inclu
 - GTAWorld
 - SA-MP
 - ARC Raiders
-...along with other games and frameworks. 
+- along with other games and frameworks. 
