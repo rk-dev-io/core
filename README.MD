@@ -1,5 +1,5 @@
 # Framework
-> Private repository. Internal development.
+> This is a Public repository. But development is likely not to happen much.
 
 ## Overview
 The goal is to keep the framework focused.
@@ -17,6 +17,6 @@ Prioritize clean architecture and long-term maintainability over quick solutions
 ## Inspirations
 Ideas and design choices are influenced by a number of games and projects, including:
 - GTAWorld
-- SA-MP
+- SA:MP
 - ARC Raiders
 - along with other games and frameworks. 
